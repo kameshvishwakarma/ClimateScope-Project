@@ -34,3 +34,8 @@ ClimateScope is a weather data analysis project that helps in understanding clim
 
 Kamesh Vishwakarma
 
+## 🔍 Key Insights
+- Temperature and humidity show moderate correlation
+- Visibility decreases during high humidity
+- Weather patterns vary across different time periods
+
