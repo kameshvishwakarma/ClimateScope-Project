@@ -39,3 +39,6 @@ Kamesh Vishwakarma
 - Visibility decreases during high humidity
 - Weather patterns vary across different time periods
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
+
