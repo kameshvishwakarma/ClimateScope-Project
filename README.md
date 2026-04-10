@@ -40,5 +40,9 @@ Kamesh Vishwakarma
 - Weather patterns vary across different time periods
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
 
+### Main View
+![Dashboard](dashboard_main.png)
+
+### Filter View
+![Dashboard](dashboard_filters.png)
